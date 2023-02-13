@@ -9,3 +9,5 @@ Machine Learning TA group @sharif.edu 2023
 3- [Ali Safarpoor Dehkordi](https://github.com/aSafarpoor)
 
 4- [Mohaddeseh Mirbeygi](https://github.com/mmirbeygi)
+
+5- [Zeinab Taghavi](https://github.com/zeinabtaghavi)
